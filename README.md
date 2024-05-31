@@ -5,5 +5,5 @@ My name is Saúl and I'm studying Computer Engineering at the University of Guad
 I'm interested on: 
   AI 🤖
   HPC 🖥️
-  Programming on backend 💻
-  Mobile development 📱  
+  Programming with Java, C, C++ 💻
+  Mobile development - Android Studio 📱  
